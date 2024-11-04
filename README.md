@@ -9,4 +9,4 @@ Access Angular Client Application - in branch *client*
 Name: Mohamed-Obay Alshaer
 Student Number: 300170489
 
-Honestly this lab was very challenging, I coudl not get the API endpoint to work and thus could not query for my athor ID. 
+Honestly this lab was very challenging, I coudl not get the API endpoint to work and thus could not query for my athor ID. However, all front-end work was done with ease. 
